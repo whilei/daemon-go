@@ -37,7 +37,7 @@ Do daemon
 
 ## Example
 
-    c := Config {
+    c := daemon.Config {
         Pid:   "/tmp/test.pid", // the pid file name
         Log:   "/tmp/test.log", // the log file name
         User:  "nobody",        // run daemon as user, if set, ROOT is required
