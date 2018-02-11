@@ -8,7 +8,7 @@ daemon-go is a Go module for doing daemon.
 
 A perfect golang module for doing daemon.
 
-*Work for *nix ONLY*
+*Work for \*nix ONLY*
 
 ## Installation
 
@@ -51,9 +51,13 @@ Do daemon
 
 ## LICENSE
 
-Copyright 2015-2016, Li Kexian
+Copyright 2015-2018, Li Kexian
 
 Apache License, Version 2.0
+
+## DONATE
+
+- [Help me make perfect](https://www.likexian.com/donate/)
 
 ## About
 
